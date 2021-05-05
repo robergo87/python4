@@ -5,5 +5,5 @@ podłącz sprzęt w wybranej sali
 wybierz program do uruchomienia
 jeśli program koparka to: włącz program koparka
 w przeciwnym wypadku ...
-podłącz sprzęt w sali 1
+podłącz sprzęt w sali 2
 wykryj położenie ręki
