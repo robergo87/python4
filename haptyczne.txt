@@ -1,0 +1,4 @@
+włacz komputer
+włącz program koparka
+podłącz sprzęt w sali 1
+wykryj położenie ręki
