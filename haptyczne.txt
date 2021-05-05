@@ -1,6 +1,4 @@
 włacz komputer
-wybierz program do uruchomienia
-jeśli program koparka to: włącz program koparka
-w przeciwnym wypadku ...
+włącz program koparka
 podłącz sprzęt w sali 1
 wykryj położenie ręki
