@@ -4,6 +4,11 @@ pobierz numer sali
 podłącz sprzęt w wybranej sali
 wybierz program do uruchomienia
 jeśli program koparka to: włącz program koparka
+<<<<<<< HEAD
 w przeciwnym wypadku ...
 podłącz sprzęt w sali 2
+=======
+w przeciwnym wypadku buldożer
+podłącz sprzęt w sali 1
+>>>>>>> wybor-programu
 wykryj położenie ręki
